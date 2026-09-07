@@ -1,1 +1,2 @@
 # Spam-Ham-email-classification
+This assignment involves building a binary Natural Language Processing (NLP) classification pipeline in R to detect spam emails using email subject lines. The analysis requires importing and preprocessing the text data, creating a row-index id column, transforming the text features for sparse matrix representation, fitting a regularized Generalized Linear Model via cross-validated elastic net (cv.glmnet), and interpreting model performance across training and test partitions.
